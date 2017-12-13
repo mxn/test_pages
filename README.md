@@ -30,6 +30,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Table example
 
+| Tables | A | B |
+|--------|---|---|
+| teyt1  | g | h |
+|--------|---|---|
+
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
