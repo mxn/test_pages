@@ -30,10 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Table example
 
-| Tables | A | B |
-|--------|---|---|
-| teyt1  | g | h |
-|--------|---|---|
+The table:
 
 
 | Tables        | Are           | Cool  |
